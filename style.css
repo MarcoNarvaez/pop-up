@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+.box-uno {
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 399px;
+    height: 432px;
+    border-radius: 10px;
+    box-shadow: 3px 2px 4px 0px rgba(236, 221, 221, 0.75);
+}
+
+.box-dos {
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 399px;
+    height: 432px;
+    border-radius: 10px;
+    box-shadow: 3px 2px 4px 0px rgba(236, 221, 221, 0.75);
+}
